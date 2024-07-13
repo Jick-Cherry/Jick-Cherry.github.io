@@ -5,13 +5,18 @@ permalink: /about/
 ---
 
 ## 关于我
-你好，我是程序员柠檬。
+你好，我是工程师樱桃，一名刚刚步入职场的硬件工程师，正如你所见，这个网站就像是一间刚刚交接的二手房，但我希望它能够为你的入门之路扫平一些障碍。
 
+我是从大一下就开始了接触单片机编程的,当时学习的时候相当吃力,而从大二开始,我尝试着自己带队打比赛的时候,发现其他人也都会或多或少的阻碍。因此,重新设计一套入门门槛更低的STM32教程的想法就一直存在于我的脑海里,直到今天,我终于有时间着手做这件事.
+
+我认为单片机编程和其他编程并没有本质性的区别，因此这套教程的基础部分也着重于这一点 —— 在编写程序时更多注重功能和算法的实现。
+
+<!-- 
 国内一线互联网大厂计算机软件工程师、[知乎](https://www.zhihu.com/people/ning-meng-cheng-31-94)编程领域万赞答主。
 
 [个人技术公众号](https://mp.weixin.qq.com/mp/homepage?__biz=MzkwOTE2OTY1Nw==&hid=1&sn=6395e40d884ce4dd3900a68a0f5a6b87&scene=18#wechat_redirect)分享编程学习路线、编程学习资源，记录技术成长，欢迎扫码添加：
 
-![公众号二维码](https://github.com/lemonchann/images/raw/master/gzh/%E6%96%87%E6%9C%AB%E6%8E%A8%E5%B9%BF%E6%96%87%E6%A1%88.png)
+![公众号二维码](https://github.com/lemonchann/images/raw/master/gzh/%E6%96%87%E6%9C%AB%E6%8E%A8%E5%B9%BF%E6%96%87%E6%A1%88.png) -->
 
 
 
